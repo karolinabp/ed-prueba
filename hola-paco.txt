@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>hola paco</h1>
+<h2>hola pepe</h2>
 
 </body>
 
